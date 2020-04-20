@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practicamvp</string>
+    <string name="nombre_cupon">Nombre cupon</string>
+    <string name="descripcion_cupon">Descripcion cupon</string>
+    <string name="categoria">Categoria</string>
+    <string name="fecha_de_venc">Fecha de venc</string>
+    <string name="valor">valor</string>
+    <string name="titulo">Titulo</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="codigo">Codigo</string>
+</resources>
